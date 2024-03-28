@@ -9,4 +9,8 @@ laboratorio usuarios python con postgreSQL
        id_usuario tipo integer     que sea not null  y llave primaria activado
        username   tipo character varying  solo que sea no null
        password   tipo character varying  solo que sea no null
-7.---- pueden agregar algunos datos o hacer todo desde el programa.....
+7.---- instalar PSYCOPG2 en visual code o pycharm o el IDE que esten utilizando...
+      -----     pip install psycopg2-binary
+
+      despues de eso ya pueden agregar el codigo para crear usuarios en una base de datos...
+      
